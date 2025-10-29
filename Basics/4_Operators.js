@@ -56,9 +56,9 @@ console.log(num1 <= 9);     // false
 let isAdult = true;
 let hasID = false;
 
-console.log(isAdult && hasID); // AND → false (both must be true)
-console.log(isAdult || hasID); // OR → true (any one is true)
-console.log(!isAdult);         // NOT → false (inverts the value)
+console.log(isAdult && hasID); // AND → false (both must be true). AND finds first falsy values
+console.log(isAdult || hasID); // OR → true (any one is true). OR finds first truthy values
+console.log(!isAdult);         // NOT → false (inverts the value) 
 
 // ===============================
 // 4. ASSIGNMENT OPERATORS
