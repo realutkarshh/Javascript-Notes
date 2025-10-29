@@ -1,5 +1,5 @@
 // ===============================
-// 🌟 INTERACTION IN JAVASCRIPT - ALERT, PROMPT & CONFIRM
+// INTERACTION IN JAVASCRIPT - ALERT, PROMPT & CONFIRM
 // ===============================
 
 // In this file, we’ll learn how JavaScript interacts with users using

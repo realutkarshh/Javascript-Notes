@@ -1,5 +1,5 @@
 //-------------------------------------------------------------
-// Basic Comparison Operators - Complete Guide
+// BASIC COMPARISON OPERATORS - COMPLETE GUIDE
 //-------------------------------------------------------------
 // In JavaScript, comparisons are used to compare two values and return a boolean value (true or false).
 // They are essential in decision-making (like if statements, loops, etc.).
