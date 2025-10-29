@@ -1,5 +1,5 @@
 // ===============================
-// 🌟 OPERATORS IN JAVASCRIPT - COMPLETE GUIDE
+// OPERATORS IN JAVASCRIPT - COMPLETE GUIDE
 // ===============================
 
 // In JavaScript, operators are special symbols used to perform operations
