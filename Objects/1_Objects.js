@@ -88,7 +88,7 @@ dog.bark(); // Woof! Woof!
 // 'this' refers to the current object that owns the method.
 
 let student2 = {
-  name: "Priya",
+  name: "Utkarsh",
   course: "B.Tech",
   greet: function() {
     console.log(`Hello, my name is ${this.name} and I'm studying ${this.course}.`);
